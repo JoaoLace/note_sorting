@@ -49,6 +49,6 @@ You can customize the program by adjusting the color thresholds and subject cate
 
 #### TODO
 
--Send the files to Google Drive
--Make the return_subject() less sensitive
--Make GUI (not doing tbh)
+- Send the files to Google Drive
+- Make the return_subject() less sensitive
+- Make GUI (not doing tbh)
