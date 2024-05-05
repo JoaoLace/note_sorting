@@ -46,3 +46,9 @@ You can customize the program by adjusting the color thresholds and subject cate
 - Ensure that OpenCV is properly installed and linked during compilation.
 - This program assumes that the images are named uniquely and do not overwrite each other during sorting.
 - Verify that the `imgs` directory exists and contains the images to be sorted.
+
+#### TODO
+
+-Send the files to Google Drive
+-Make the return_subject() less sensitive
+-Make GUI (not doing tbh)
